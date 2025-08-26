@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @SzakyRo
-- 🌱 I’m currently learning about Cybersecurity and machine learning.
 - 💞️ I’m looking to collaborate on any projects including machine learning, networks, security.
